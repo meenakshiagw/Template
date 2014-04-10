@@ -1,0 +1,219 @@
+html{
+	background-color: lightblue;
+}
+
+#wrapper {
+	max-width: 960px;
+	margin: 60px auto;
+}
+
+.container {
+	background-color: white;
+	float: left;
+	width: 100%;
+}
+
+.header-top {
+	background-color: yellow;
+	margin-top: -21px;
+	padding: 20px 0 10px 20px;
+	border-bottom: 2px solid orange;
+	text-align: center;
+}
+
+.job-description {
+	margin-top: -20px;
+}
+
+.horizontal-left {
+	border-top: 5px solid grey;
+	border-bottom: 2px solid grey;
+	margin-top: 100px;
+	max-width: 300px;
+	padding-top: 5px;
+	margin-left: 40px;	
+}
+
+.middle-column {
+	margin-top: -41px;
+	text-align: center;
+}
+
+.horizontal-right {
+	border-top: 5px solid grey;
+	border-bottom: 2px solid grey;
+	margin: -41px 40px 0 620px ;
+	max-width: 300px;
+	padding-top: 5px;
+}
+
+.personal-1 {
+	float: left;
+	max-width: 400px;
+	margin: 20px 0 0 40px;
+}
+
+.personal-2 {
+	float: left;
+	margin-top: 15px;
+	margin-left: 40px;
+}
+
+.personal-3 {
+	float: left;
+	margin-top: 15px;
+	margin-left: 40px;
+}
+
+li {
+	list-style: none;
+	margin-left: -40px;
+	margin-top: 10px;
+	font-size: 14px;
+}
+
+.fb-icon, .twitter-icon {
+	width: 32px;
+	height: 32px;
+}
+
+.social-icon-1 {
+	display: inline-block;
+	float: left;
+}
+
+.social-icon-2 {
+	display: inline-block;
+	margin-left: 25px;
+	float: left;
+}
+
+.social-icon-3 {
+	display: inline-block;
+	margin-left: 25px;
+}
+
+.horizontal-left-1 {
+	border-top: 5px solid grey;
+	border-bottom: 2px solid grey;
+	margin-top: 260px;
+	max-width: 300px;
+	padding-top: 5px;
+	margin-left: 40px;	
+}
+
+.work-ex-1 {
+	float: left;
+	max-width: 270px;
+	margin: 20px 0 0 40px;
+}
+
+.work-ex-2 {
+	float: left;
+	margin-top: 15px;
+	margin-left: 40px;
+	max-width: 270px;
+}
+
+.work-ex-3 {
+	float: left;
+	margin-top: 15px;
+	margin-left: 40px;
+	max-width: 270px;
+}
+
+.company-description {
+	margin-top: -20px;
+	font-style: italic;
+	font-weight: normal;
+}
+
+.horizontal-left-2 {
+	border-top: 5px solid grey;
+	border-bottom: 2px solid grey;
+	margin-top: 400px;
+	max-width: 300px;
+	padding-top: 5px;
+	margin-left: 40px;	
+}
+
+.horizontal-left-3 {
+	border-top: 5px solid grey;
+	border-bottom: 2px solid grey;
+	margin-top: 230px;
+	max-width: 300px;
+	padding-top: 5px;
+	margin-left: 40px;	
+}
+
+.education-1 {
+	float: left;
+	max-width: 600px;
+	margin: 20px 0 0 40px;
+}
+
+.education-2 {
+	float: left;
+	margin-top: 15px;
+	margin-left: 40px;
+	max-width: 270px;
+}
+
+.education-description {
+	margin-top: -15px;
+}
+
+.horizontal-left-4 {
+	border-top: 5px solid grey;
+	border-bottom: 2px solid grey;
+	margin-top: 260px;
+	max-width: 300px;
+	padding-top: 5px;
+	margin-left: 40px;	
+}
+
+.clients-1 {
+	display: inline-block;
+	margin-top: -5px;
+}
+
+.clients-2, .clients-3 {
+	display: inline-block;
+	margin-left: 20px;
+	margin-top: -5px;
+}
+
+.portfolio-1 {
+	float: left;
+	max-width: 580px;
+	margin: 20px 0 0 40px;
+}
+
+.portfolio-2 {
+	float: left;
+	margin-top: 15px;
+	margin-left: 40px;
+}
+
+.pics {
+	float: left;
+}
+
+.pics-1, .pics-2, .pics-3 {
+	margin-left: 50px;
+	float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
